@@ -1,0 +1,220 @@
+[Error event] [ERROR CODE]: || 0002
+[ERROR TYPE]: || LOGIN ERROR
+[ERROR TEXT]: || USERNAME NOT FOUND [2020-05-21 13:27:05.166699]
+[Error event] [ERROR CODE]: || 0005
+[ERROR TYPE]: || PASSWORD REQUIREMENT ERROR
+[ERROR TEXT]: || PASSWORD MUST BE 10 CHARACTERS LONG [2020-05-22 09:55:11.006681]
+[Error event] [ERROR CODE]: || 0002
+[ERROR TYPE]: || LOGIN ERROR
+[ERROR TEXT]: || USERNAME NOT FOUND [2020-05-22 09:55:13.396289]
+[Error event] [ERROR CODE]: || 0002
+[ERROR TYPE]: || LOGIN ERROR
+[ERROR TEXT]: || USERNAME NOT FOUND [2020-10-01 22:01:10.796485]
+[Error event] [ERROR CODE]: || 0002
+[ERROR TYPE]: || LOGIN ERROR
+[ERROR TEXT]: || USERNAME NOT FOUND [2020-10-01 22:01:42.819743]
+[Error event] [ERROR CODE]: || 0002
+[ERROR TYPE]: || LOGIN ERROR
+[ERROR TEXT]: || USERNAME NOT FOUND [2020-10-01 22:13:40.152911]
+[NEW ACCOUNT]	hunter Has Been Added To the PyPass User Database	[2020-10-01 22:14:04.990727]
+[NEW ACCOUNT]	batman Has Been Added To the PyPass User Database	[2020-10-01 22:15:12.923878]
+[Error event] batman has been removed [2020-10-01 22:17:47.069887]
+[Error event] [ERROR]    : Trojanhorse8    Trojanhorse8
+[ERROR CODE]: || 0006
+[ERROR TYPE]: || PASSWORD MATCHING ERROR
+[ERROR TEXT]: || THE PASSWORDS YOU HAVE ENTERED DON'T MATCH [2020-10-01 22:18:05.989447]
+[Error event] [ERROR]    : Trojanhorse8    Trojanhorse8
+[ERROR CODE]: || 0006
+[ERROR TYPE]: || PASSWORD MATCHING ERROR
+[ERROR TEXT]: || THE PASSWORDS YOU HAVE ENTERED DON'T MATCH [2020-10-01 22:18:15.204257]
+[Error event] [ERROR CODE]: || 0007
+[ERROR TYPE]: || PASSWORD REQUIREMENT ERROR
+[ERROR TEXT]: || PASSWORD MUST CONTAIN A SYMBOL, CAPITAL LETTER AND A DIGIT [2020-10-01 22:22:50.399642]
+[Error event] [ERROR]    : !PythonicCode0308    !pythonoiccode030
+[ERROR CODE]: || 0006
+[ERROR TYPE]: || PASSWORD MATCHING ERROR
+[ERROR TEXT]: || THE PASSWORDS YOU HAVE ENTERED DON'T MATCH [2020-10-01 22:23:07.263641]
+[NEW ACCOUNT]	batman Has Been Added To the PyPass User Database	[2020-10-01 22:23:16.706956]
+[LOGOUT]	batman Has successfully logged out	[2020-10-01 22:23:32.033266]
+[Error event] User Database Was Left Decrypted, Remember To Logout [2020-10-01 22:25:08.935990]
+[LOGIN]	batman has successfully logged in to PyPass	[2020-10-01 22:25:08.935990]
+[LOGOUT]	batman Has successfully logged out	[2020-10-01 22:28:03.124937]
+[Error event] User Database Was Left Decrypted, Remember To Logout [2020-10-01 22:29:25.004153]
+[LOGIN]	batman has successfully logged in to PyPass	[2020-10-01 22:29:25.004153]
+[Error event] User Database Was Left Decrypted, Remember To Logout [2020-10-01 22:30:56.602228]
+[LOGIN]	batman has successfully logged in to PyPass	[2020-10-01 22:30:56.602228]
+[Error event] User Database Was Left Decrypted, Remember To Logout [2020-10-01 23:04:05.030612]
+[LOGIN]	batman has successfully logged in to PyPass	[2020-10-01 23:04:05.030612]
+[Error event] User Database Was Left Decrypted, Remember To Logout [2020-10-01 23:05:26.376313]
+[LOGIN]	batman has successfully logged in to PyPass	[2020-10-01 23:05:26.377313]
+[Error event] [ERROR CODE]: || 0000
+[ERROR TYPE]: || LOGIN ERROR
+[ERROR TEXT]: || USERNAME OR PASSWORD INCORRECT [2020-10-01 23:06:50.783867]
+[Error event] User Database Was Left Decrypted, Remember To Logout [2020-10-01 23:07:01.296701]
+[LOGIN]	batman has successfully logged in to PyPass	[2020-10-01 23:07:01.297694]
+[Error event] User Database Was Left Decrypted, Remember To Logout [2020-10-01 23:09:56.882872]
+[LOGIN]	batman has successfully logged in to PyPass	[2020-10-01 23:09:56.882872]
+[Error event] User Database Was Left Decrypted, Remember To Logout [2020-10-01 23:13:43.742347]
+[LOGIN]	batman has successfully logged in to PyPass	[2020-10-01 23:13:43.742347]
+[Error event] User Database Was Left Decrypted, Remember To Logout [2020-10-01 23:24:38.268909]
+[LOGIN]	batman has successfully logged in to PyPass	[2020-10-01 23:24:38.268909]
+[Error event] User Database Was Left Decrypted, Remember To Logout [2020-10-01 23:25:29.835325]
+[LOGIN]	batman has successfully logged in to PyPass	[2020-10-01 23:25:29.835325]
+[Error event] User Database Was Left Decrypted, Remember To Logout [2020-10-01 23:36:09.553369]
+[LOGIN]	batman has successfully logged in to PyPass	[2020-10-01 23:36:09.553369]
+[Error event] User Database Was Left Decrypted, Remember To Logout [2020-10-02 00:49:41.908597]
+[LOGIN]	batman has successfully logged in to PyPass	[2020-10-02 00:49:41.908597]
+[LOGOUT]	batman Has successfully logged out	[2020-10-02 00:50:17.184768]
+[Error event] User Database Was Left Decrypted, Remember To Logout [2020-10-02 01:13:44.653225]
+[LOGIN]	batman has successfully logged in to PyPass	[2020-10-02 01:13:44.653225]
+[Error event] User Database Was Left Decrypted, Remember To Logout [2020-10-02 01:29:28.784224]
+[LOGIN]	batman has successfully logged in to PyPass	[2020-10-02 01:29:28.785223]
+[Error event] User Database Was Left Decrypted, Remember To Logout [2020-10-02 01:33:58.821134]
+[LOGIN]	batman has successfully logged in to PyPass	[2020-10-02 01:33:58.821134]
+[Error event] User Database Was Left Decrypted, Remember To Logout [2020-10-02 01:35:03.285507]
+[LOGIN]	batman has successfully logged in to PyPass	[2020-10-02 01:35:03.285507]
+[Error event] User Database Was Left Decrypted, Remember To Logout [2020-10-05 00:47:18.715014]
+[LOGIN]	batman has successfully logged in to PyPass	[2020-10-05 00:47:18.723096]
+[Error event] User Database Was Left Decrypted, Remember To Logout [2020-10-05 00:49:41.937647]
+[LOGIN]	batman has successfully logged in to PyPass	[2020-10-05 00:49:41.937647]
+[Error event] User Database Was Left Decrypted, Remember To Logout [2020-10-06 00:50:53.171730]
+[LOGIN]	batman has successfully logged in to PyPass	[2020-10-06 00:50:53.171730]
+[Error event] User Database Was Left Decrypted, Remember To Logout [2020-10-06 00:52:09.224515]
+[LOGIN]	batman has successfully logged in to PyPass	[2020-10-06 00:52:09.224515]
+[Error event] User Database Was Left Decrypted, Remember To Logout [2020-10-06 01:08:38.489170]
+[LOGIN]	batman has successfully logged in to PyPass	[2020-10-06 01:08:38.489170]
+[Error event] User Database Was Left Decrypted, Remember To Logout [2020-10-06 01:11:39.473268]
+[LOGIN]	batman has successfully logged in to PyPass	[2020-10-06 01:11:39.473268]
+[Error event] User Database Was Left Decrypted, Remember To Logout [2020-10-06 01:14:16.044837]
+[LOGIN]	batman has successfully logged in to PyPass	[2020-10-06 01:14:16.045837]
+[Error event] User Database Was Left Decrypted, Remember To Logout [2020-10-06 01:23:10.638151]
+[LOGIN]	batman has successfully logged in to PyPass	[2020-10-06 01:23:10.638151]
+[LOGOUT]	batman Has successfully logged out	[2020-10-06 01:27:13.411242]
+[LOGOUT]	batman Has successfully logged out	[2020-10-06 01:28:07.579373]
+[Error event] User Database Was Left Decrypted, Remember To Logout [2020-10-06 01:36:46.995627]
+[LOGIN]	batman has successfully logged in to PyPass	[2020-10-06 01:36:46.995627]
+[LOGOUT]	batman Has successfully logged out	[2020-10-06 01:36:50.146021]
+[Error event] [ERROR CODE]: || 0000
+[ERROR TYPE]: || LOGIN ERROR
+[ERROR TEXT]: || USERNAME OR PASSWORD INCORRECT [2020-10-06 01:37:58.465117]
+[Error event] [ERROR CODE]: || 0000
+[ERROR TYPE]: || LOGIN ERROR
+[ERROR TEXT]: || USERNAME OR PASSWORD INCORRECT [2020-10-06 01:38:20.613198]
+[Error event] [ERROR CODE]: || 0000
+[ERROR TYPE]: || LOGIN ERROR
+[ERROR TEXT]: || USERNAME OR PASSWORD INCORRECT [2020-10-06 01:38:53.919265]
+[Error event] User Database Was Left Decrypted, Remember To Logout [2020-10-06 01:38:58.839582]
+[LOGIN]	batman has successfully logged in to PyPass	[2020-10-06 01:38:58.839582]
+[LOGOUT]	batman Has successfully logged out	[2020-10-06 01:39:00.483139]
+[Error event] User Database Was Left Decrypted, Remember To Logout [2020-10-06 01:39:38.862428]
+[LOGIN]	batman has successfully logged in to PyPass	[2020-10-06 01:39:38.863429]
+[LOGOUT]	batman Has successfully logged out	[2020-10-06 01:39:50.783126]
+[Error event] User Database Was Left Decrypted, Remember To Logout [2020-10-06 01:40:52.554208]
+[LOGIN]	batman has successfully logged in to PyPass	[2020-10-06 01:40:52.554208]
+[Error event] User Must Input Account Name [2020-10-06 01:41:36.759773]
+[Error event] User Must Input Account Name [2020-10-06 01:41:39.651129]
+[Error event] User Must Input Account Name [2020-10-06 01:42:04.890654]
+[Error event] User Must Input Account Name [2020-10-06 01:42:09.526642]
+[LOGOUT]	batman Has successfully logged out	[2020-10-06 01:42:14.592979]
+[LOGOUT]	batman Has successfully logged out	[2020-10-06 01:42:57.307799]
+[Error event] [ERROR CODE]: || 0002
+[ERROR TYPE]: || LOGIN ERROR
+[ERROR TEXT]: || USERNAME NOT FOUND [2020-10-06 01:49:12.792350]
+[Error event] [ERROR CODE]: || 0002
+[ERROR TYPE]: || LOGIN ERROR
+[ERROR TEXT]: || USERNAME NOT FOUND [2020-10-06 01:49:42.375026]
+[Error event] [ERROR CODE]: || 0002
+[ERROR TYPE]: || LOGIN ERROR
+[ERROR TEXT]: || USERNAME NOT FOUND [2020-10-06 02:54:28.071864]
+[Error event] [ERROR CODE]: || 0002
+[ERROR TYPE]: || LOGIN ERROR
+[ERROR TEXT]: || USERNAME NOT FOUND [2020-10-06 02:54:48.187879]
+[NEW ACCOUNT]	trav Has Been Added To the PyPass User Database	[2020-10-06 02:55:21.453444]
+[LOGOUT]	trav Has successfully logged out	[2020-10-06 02:55:24.095686]
+[Error event] trav has been removed [2020-10-06 02:55:50.821573]
+[Error event] [ERROR CODE]: || 0005
+[ERROR TYPE]: || PASSWORD REQUIREMENT ERROR
+[ERROR TEXT]: || PASSWORD MUST BE 10 CHARACTERS LONG [2020-10-06 02:55:54.984262]
+[Error event] [ERROR CODE]: || 0002
+[ERROR TYPE]: || LOGIN ERROR
+[ERROR TEXT]: || USERNAME NOT FOUND [2020-10-06 02:55:55.013270]
+[NEW ACCOUNT]	soda Has Been Added To the PyPass User Database	[2020-10-06 02:56:55.244223]
+[LOGOUT]	soda Has successfully logged out	[2020-10-06 02:56:57.975278]
+[Error event] soda has been removed [2020-10-06 02:58:04.970753]
+[Error event] [ERROR CODE]: || 0007
+[ERROR TYPE]: || PASSWORD REQUIREMENT ERROR
+[ERROR TEXT]: || PASSWORD MUST CONTAIN A SYMBOL, CAPITAL LETTER AND A DIGIT [2020-10-06 15:12:00.429417]
+[NEW ACCOUNT]	fuckeroo Has Been Added To the PyPass User Database	[2020-10-06 15:12:05.362243]
+[Error event] [ERROR CODE]: || 0005
+[ERROR TYPE]: || PASSWORD REQUIREMENT ERROR
+[ERROR TEXT]: || PASSWORD MUST BE 10 CHARACTERS LONG [2020-10-07 03:53:07.852093]
+[Error event] User Database Was Left Decrypted, Remember To Logout [2020-10-07 03:53:22.430403]
+[LOGIN]	fuckeroo has successfully logged in to PyPass	[2020-10-07 03:53:22.430403]
+[NEW ACCOUNT]	tittyfucker Has Been Added To the PyPass User Database	[2020-10-07 04:15:07.372215]
+[LOGOUT]	fuckeroo Has successfully logged out	[2020-10-07 04:15:11.689280]
+[Error event] User Database Was Left Decrypted, Remember To Logout [2020-10-07 04:15:50.785561]
+[LOGIN]	tittyfucker has successfully logged in to PyPass	[2020-10-07 04:15:50.785561]
+[LOGOUT]	tittyfucker Has successfully logged out	[2020-10-07 04:15:57.309234]
+[LOGIN]	fuckeroo has successfully logged in to PyPass	[2020-10-07 04:33:42.177276]
+[LOGOUT]	fuckeroo Has successfully logged out	[2020-10-07 04:35:52.333936]
+[LOGIN]	fuckeroo has successfully logged in to PyPass	[2020-10-07 04:39:22.300477]
+[Error event] User Database Was Left Decrypted, Remember To Logout [2020-10-07 04:39:53.919125]
+[LOGIN]	fuckeroo has successfully logged in to PyPass	[2020-10-07 04:39:53.920125]
+[Error event] User Database Was Left Decrypted, Remember To Logout [2020-10-07 05:02:15.028597]
+[LOGIN]	fuckeroo has successfully logged in to PyPass	[2020-10-07 05:02:15.028597]
+[LOGIN]	tittyfucker has successfully logged in to PyPass	[2020-10-07 05:10:05.651491]
+[LOGIN]	tittyfucker has successfully logged in to PyPass	[2020-10-07 05:12:48.195234]
+[LOGIN]	tittyfucker has successfully logged in to PyPass	[2020-10-07 05:14:50.042872]
+[Error event] User Database Was Left Decrypted, Remember To Logout [2020-10-07 05:16:26.882339]
+[LOGIN]	tittyfucker has successfully logged in to PyPass	[2020-10-07 05:16:26.882339]
+[LOGIN]	tittyfucker has successfully logged in to PyPass	[2020-10-07 05:17:10.993719]
+[Error event] tittyfucker has been removed [2020-10-07 05:20:35.847922]
+[NEW ACCOUNT]	hunter Has Been Added To the PyPass User Database	[2020-10-08 02:44:47.218380]
+[Error event] User Database Was Left Decrypted, Remember To Logout [2020-10-08 02:45:55.042267]
+[LOGIN]	hunter has successfully logged in to PyPass	[2020-10-08 02:45:55.043266]
+[LOGIN]	hunter has successfully logged in to PyPass	[2020-10-08 02:48:01.141782]
+[Error event] User Database Was Left Decrypted, Remember To Logout [2020-10-08 02:49:29.546480]
+[LOGIN]	hunter has successfully logged in to PyPass	[2020-10-08 02:49:29.547481]
+[LOGOUT]	hunter Has successfully logged out	[2020-10-08 02:49:40.968984]
+[LOGIN]	hunter has successfully logged in to PyPass	[2020-10-08 02:56:24.186766]
+[Error event] hunter is still logged in 
+you can proceed after hunter logs out [2020-10-08 03:00:03.710136]
+[Error event] hunter is still logged in 
+you can proceed after hunter logs out [2020-10-08 03:05:10.057729]
+[Error event] cannot perform quick logout,hunter log back in and logout [2020-10-08 03:13:42.422524]
+[Error event] cannot perform quick logout,hunter log back in and logout [2020-10-08 03:13:54.460918]
+[Error event] cannot perform quick logout,hunter log back in and logout [2020-10-08 03:14:11.212417]
+[Error event] cannot perform quick logout,hunter log back in and logout [2020-10-08 03:16:52.757781]
+[Error event] cannot perform quick logout,hunter log back in and logout [2020-10-08 03:17:17.645308]
+[Error event] cannot perform quick logout,hunter log back in and logout [2020-10-08 03:18:12.173120]
+[Error event] hunter is still logged in 
+you can proceed after hunter logs out [2020-10-09 01:39:41.965114]
+[Error event] User Database Was Left Decrypted, Remember To Logout [2020-10-09 01:41:09.421990]
+[LOGIN]	hunter has successfully logged in to PyPass	[2020-10-09 01:41:09.421990]
+[PASSWORD UPDATED]	hunter Has changed their password	[2020-10-09 01:42:56.450875]
+[LOGOUT]	hunter Has successfully logged out	[2020-10-09 01:43:00.298794]
+[LOGIN]	hunter has successfully logged in to PyPass	[2020-10-09 01:43:26.732915]
+[LOGOUT]	hunter Has successfully logged out	[2020-10-09 01:43:27.933972]
+[Error event] [ERROR CODE]: || 0000
+[ERROR TYPE]: || LOGIN ERROR
+[ERROR TEXT]: || USERNAME OR PASSWORD INCORRECT [2020-10-09 01:45:38.028473]
+[Error event] User Database Was Left Decrypted, Remember To Logout [2020-10-09 01:45:46.579242]
+[LOGIN]	hunter has successfully logged in to PyPass	[2020-10-09 01:45:46.579242]
+[Error event] User Database Was Left Decrypted, Remember To Logout [2020-10-09 01:47:22.019212]
+[LOGIN]	hunter has successfully logged in to PyPass	[2020-10-09 01:47:22.019212]
+[LOGIN]	hunter has successfully logged in to PyPass	[2020-10-09 01:49:27.517108]
+[NEW ACCOUNT]	jaguar Has Been Added To the PyPass User Database	[2020-10-09 01:51:22.522463]
+[Error event] User Database Was Left Decrypted, Remember To Logout [2020-10-09 01:52:00.404800]
+[LOGIN]	jaguar has successfully logged in to PyPass	[2020-10-09 01:52:00.404800]
+[NEW ACCOUNT]	timmy Has Been Added To the PyPass User Database	[2020-10-09 01:53:22.914074]
+[Error event] User Database Was Left Decrypted, Remember To Logout [2020-10-09 01:54:29.729352]
+[LOGIN]	timmy has successfully logged in to PyPass	[2020-10-09 01:54:29.729352]
+[LOGOUT]	timmy Has successfully logged out	[2020-10-09 01:54:30.654960]
+[NEW ACCOUNT]	pax Has Been Added To the PyPass User Database	[2020-10-09 01:55:06.734920]
+[NEW ACCOUNT]	hunter Has Been Added To the PyPass User Database	[2020-10-09 02:13:49.237377]
+[Error event] [ERROR CODE]: || 0005
+[ERROR TYPE]: || PASSWORD REQUIREMENT ERROR
+[ERROR TEXT]: || PASSWORD MUST BE 10 CHARACTERS LONG [2020-10-13 03:46:45.353190]
+[NEW ACCOUNT]	tittyfucker Has Been Added To the PyPass User Database	[2020-10-13 04:38:36.860257]
+[NEW ACCOUNT]	REX Has Been Added To the PyPass User Database	[2020-10-13 04:43:24.865763]
+[LOGOUT]	REX Has successfully logged out	[2020-10-13 04:43:33.282717]

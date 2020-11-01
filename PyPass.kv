@@ -1,0 +1,35 @@
+#:kivy 1.11.1
+WindowManager:
+    LoginScreen:
+    NewUser:
+    Database:
+<LoginScreen>:
+    name: "LoginScreen"
+<NewUser>:
+    name: "NewUser"
+    Image:
+        source: 'shadow-hard.png'
+        size_hint: (None, None)
+        width: 500
+        height: 500
+        pos: (230, 280)
+<Database>:
+    name: "Database"
+    #char: length
+    AnchorLayout:
+        anchor_x: 'right'
+        anchor_y: 'top'
+        padding:[5, 0]
+        Image:
+            source: 'border.png'
+            size_hint: (None, None)
+            width: 125
+            height: 125
+    Image:
+        source: 'shadow-hard.png'
+        size_hint: (None, None)
+        width: 250
+        height: 35
+        pos: (550, 525)
+
+
